@@ -1,0 +1,9 @@
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastClient\obj\Debug\MulticastClient.Form1.resources
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastClient\obj\Debug\MulticastClient.Properties.Resources.resources
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastClient\obj\Debug\MulticastClient.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastClient\obj\Debug\MulticastClient.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastClient\bin\Debug\MulticastClient.exe.config
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastClient\bin\Debug\MulticastClient.exe
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastClient\bin\Debug\MulticastClient.pdb
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastClient\obj\Debug\MulticastClient.exe
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastClient\obj\Debug\MulticastClient.pdb

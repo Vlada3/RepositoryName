@@ -1,0 +1,10 @@
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastServer\bin\Debug\MulticastServer.exe.config
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastServer\bin\Debug\MulticastServer.exe
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastServer\bin\Debug\MulticastServer.pdb
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastServer\obj\Debug\MulticastServer.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastServer\obj\Debug\MulticastServer.Form1.resources
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastServer\obj\Debug\MulticastServer.Properties.Resources.resources
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastServer\obj\Debug\MulticastServer.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastServer\obj\Debug\MulticastServer.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastServer\obj\Debug\MulticastServer.exe
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\MulticastServer\obj\Debug\MulticastServer.pdb
