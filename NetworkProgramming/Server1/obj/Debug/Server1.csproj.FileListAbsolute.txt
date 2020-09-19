@@ -1,0 +1,7 @@
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\Server1\bin\Debug\Server1.exe.config
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\Server1\bin\Debug\Server1.exe
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\Server1\bin\Debug\Server1.pdb
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\Server1\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\Server1\obj\Debug\Server1.exe
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\Server1\obj\Debug\Server1.pdb
+C:\Users\Взрослая академия\source\repos\RepositoryName\NetworkProgramming\Server1\obj\Debug\Server1.csprojAssemblyReference.cache
